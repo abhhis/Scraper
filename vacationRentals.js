@@ -37,4 +37,4 @@ function vacationRentals() {
         });
     })
     casper.run();
-};
+};//end
